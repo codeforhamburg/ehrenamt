@@ -1,0 +1,100 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [10.005090, 53.599157],
+                        [10.005678, 53.592294],
+                        [10.030900, 53.590289],
+                        [10.032284, 53.600083],     
+                        [10.005090, 53.599157]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Stadtpark Polygon",
+                "address": "Grünes Viereck 12a-d",
+                "id": "id5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.001268, 
+                    53.583702
+                ]
+            },
+            "properties": {
+                "name": "Alster Nord",
+                "description": "Standort Nord",
+                "id": "id1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.004009,
+                    53.557744                    
+                ]
+            },
+            "properties": {
+                "name": "Alster Süd",
+                "description": "Standort Süd",
+                "id": "id3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.018728,
+                    53.566094  
+                ]
+            },
+            "properties": {
+                "name": "Alster Ost",
+                "description": "Standort Ost",
+                "id": "id2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.995698,
+                    53.567591 
+                ]
+            },
+            "properties": {
+                "name": "Alster West",
+                "description": "Standort West",
+                "id": "id4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.995698,
+                    53.567591 
+                ]
+            },
+            "properties": {
+                "name": "Alster Mitte",
+                "address": "Standort",
+                "id": "id6"
+            }
+        }
+    ]
+}
